@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Vores service - NaboTeknikeren.dk
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"

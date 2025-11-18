@@ -1,14 +1,14 @@
 main:
-  - name: "Services"
+  - name: "Vores service"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Om os"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Vores indsats"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 

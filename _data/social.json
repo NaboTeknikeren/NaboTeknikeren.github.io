@@ -1,7 +1,7 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/NaboTeknikeren",
     "image": "images/social/github.svg"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "mailto:info@naboteknikeren.dk ",
       "image": "images/social/email.svg"
   },
   {
